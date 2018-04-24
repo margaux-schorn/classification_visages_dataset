@@ -1,0 +1,8 @@
+homme
+yeux_fonces
+yeux_ronds
+nez_rond
+visage_carre
+sourire
+couvre_chef
+Vieux

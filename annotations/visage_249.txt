@@ -1,0 +1,9 @@
+femme
+yeux_clairs
+yeux_amandes
+nez_rond
+visage_rond
+sourire
+age_moyen
+Jeune
+Lunettes

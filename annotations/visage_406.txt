@@ -1,0 +1,8 @@
+homme
+yeux_fonces
+yeux_ronds
+nez_pointu
+visage_carre
+sourire
+barbe
+age_moyen

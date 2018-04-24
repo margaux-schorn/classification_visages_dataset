@@ -1,0 +1,8 @@
+homme
+visage_carre
+yeux_ronds
+yeux_fonces
+nez_rond
+Jeune
+Lunettes
+barbe

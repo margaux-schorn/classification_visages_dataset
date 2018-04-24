@@ -1,0 +1,7 @@
+Femme
+yeux_amandes
+yeux_fonces
+nez_rond
+couvre_chef
+visage_rond
+age_moyen

@@ -1,0 +1,6 @@
+femme
+yeux_ronds
+yeux_clairs
+nez_rond
+age_moyen
+visage_carre

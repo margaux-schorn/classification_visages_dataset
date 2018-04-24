@@ -1,0 +1,8 @@
+homme
+yeux_amandes
+yeux_fonces
+nez_rond
+barbe
+couvre_chef
+visage_rond
+Vieux

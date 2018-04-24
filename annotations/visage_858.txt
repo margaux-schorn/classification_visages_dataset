@@ -1,0 +1,7 @@
+Femme
+yeux_ronds
+yeux_fonces
+lunettes
+nez_pointu
+Visage_carre
+age_moyen

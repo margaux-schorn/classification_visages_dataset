@@ -1,0 +1,7 @@
+Femme
+yeux_amandes
+yeux_clairs
+nez_rond
+visage_carre
+age_moyen
+Sourire

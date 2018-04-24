@@ -1,0 +1,8 @@
+homme
+yeux_ronds
+yeux_fonces
+nez_rond
+visage_rond
+Moustache
+Lunettes
+age_moyen

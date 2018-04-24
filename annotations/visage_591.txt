@@ -1,0 +1,8 @@
+homme
+sourire
+yeux_clairs
+yeux_ronds
+nez_pointu
+visage_carre
+Barbe
+jeune

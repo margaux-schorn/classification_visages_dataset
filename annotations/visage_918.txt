@@ -1,0 +1,7 @@
+homme
+yeux_ronds
+yeux_clairs
+lunettes
+nez_pointu
+Vieux
+visage_rond

@@ -1,0 +1,6 @@
+homme
+yeux_ronds
+yeux_clairs
+nez_pointu
+visage_rond
+age_moyen

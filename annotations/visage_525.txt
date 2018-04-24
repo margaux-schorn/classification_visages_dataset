@@ -1,0 +1,7 @@
+femme
+yeux_fonces
+yeux_ronds
+nez_pointu
+sourire
+visage_rond
+age_moyen

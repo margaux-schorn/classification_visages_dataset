@@ -1,0 +1,7 @@
+femme
+yeux_clairs
+yeux_ronds
+nez_pointu
+visage_carre
+Vieux
+couvre_chef

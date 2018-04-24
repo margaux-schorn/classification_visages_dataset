@@ -1,0 +1,7 @@
+femme
+yeux_fonces
+yeux_amandes
+nez_pointu
+jeune
+visage_rond
+sourire

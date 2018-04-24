@@ -1,0 +1,6 @@
+homme
+yeux_clairs
+yeux_amandes
+visage_carre
+nez_rond
+age_moyen

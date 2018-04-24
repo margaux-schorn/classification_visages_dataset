@@ -1,0 +1,8 @@
+homme
+yeux_amandes
+yeux_clairs
+nez_pointu
+visage_rond
+couvre_chef
+age_moyen
+sourire

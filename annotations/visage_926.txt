@@ -1,0 +1,7 @@
+homme
+yeux_clairs
+yeux_ronds
+nez_pointu
+moustache
+visage_carre
+age_moyen

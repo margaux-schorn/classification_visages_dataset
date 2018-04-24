@@ -1,0 +1,7 @@
+homme
+yeux_ronds
+nez_rond
+visage_rond
+yeux_clairs
+Barbe
+vieux

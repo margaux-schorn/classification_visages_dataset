@@ -1,0 +1,7 @@
+homme
+yeux_fonces
+lunettes
+yeux_amandes
+nez_rond
+visage_carre
+Vieux

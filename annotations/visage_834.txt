@@ -1,0 +1,6 @@
+femme
+yeux_fonces
+yeux_ronds
+nez_rond
+visage_rond
+age_moyen

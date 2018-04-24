@@ -1,0 +1,6 @@
+homme
+yeux_fonces
+yeux_ronds
+visage_carre
+nez_pointu
+Vieux

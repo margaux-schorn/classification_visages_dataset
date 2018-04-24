@@ -1,0 +1,8 @@
+femme
+yeux_fonces
+yeux_ronds
+nez_pointu
+couvre_chef
+sourire
+visage_carre
+Jeune

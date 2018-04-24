@@ -1,0 +1,6 @@
+femme
+nez_rond
+yeux_fonces
+yeux_ronds
+visage_carre
+jeune
